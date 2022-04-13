@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/gate obs open.mp3-2eb5c045a2e4a0e408933bf1ff85445d.mp3str"
+
+[deps]
+
+source_file="res://extra/gate obs open.mp3"
+dest_files=[ "res://.import/gate obs open.mp3-2eb5c045a2e4a0e408933bf1ff85445d.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

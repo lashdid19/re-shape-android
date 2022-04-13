@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/gate close.mp3-9a1e47945a4b7bfb7f95352a85980225.mp3str"
+
+[deps]
+
+source_file="res://extra/gate close.mp3"
+dest_files=[ "res://.import/gate close.mp3-9a1e47945a4b7bfb7f95352a85980225.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

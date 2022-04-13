@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/roaring.mp3-168d2a5ffe0582eeb4c57935275aa4c9.mp3str"
+
+[deps]
+
+source_file="res://extra/roaring.mp3"
+dest_files=[ "res://.import/roaring.mp3-168d2a5ffe0582eeb4c57935275aa4c9.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

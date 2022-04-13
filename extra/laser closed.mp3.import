@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/laser closed.mp3-c39b6f0e3c1f1f947ccd3410e1fc6582.mp3str"
+
+[deps]
+
+source_file="res://extra/laser closed.mp3"
+dest_files=[ "res://.import/laser closed.mp3-c39b6f0e3c1f1f947ccd3410e1fc6582.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0
